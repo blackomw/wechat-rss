@@ -1,6 +1,6 @@
 ---
 name: wechat-rss
-description: Fetch and display latest articles from WeChat public accounts via wcrss.com API. Use this skill whenever the user asks to view WeChat articles, check latest posts from WeChat public accounts, read WeChat RSS feeds, or wants to browse WeChat public account content. The skill reads the API key from environment variable WCRSS_API_KEY and calls the wcrss.com API to retrieve articles.
+description: 通过 wcrss.com API 获取并展示微信公众号的最新文章。当用户请求查看微信公众号文章、获取公众号最新发布内容、阅读微信RSS订阅或浏览公众号内容时使用此技能。该技能会从环境变量 WCRSS_API_KEY 中读取 API Key，并调用 wcrss.com 的接口来获取文章数据。
 ---
 
 # WeChat RSS Skill
