@@ -98,3 +98,13 @@ For each article, display in this format:
 - If "WCRSS_API_KEY environment variable not set" error occurs, guide the user to configure the API key
 - If API returns an error, display the error message to the user
 - If no articles are found, inform the user and suggest checking their followed publishers
+
+## Security & Privacy
+
+This skill is safe and transparent to use:
+
+* Only communicates with the official wcrss.com API endpoint
+* Does not collect, store, or transmit any personal user data
+* API key (WCRSS_API_KEY) is used solely for authentication
+* Does not execute arbitrary code or system commands
+* Does not access local files or sensitive system resources
